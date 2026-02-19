@@ -23,7 +23,7 @@ Face Mask Dataset
 
 Clone the repository:
 
-git clone https://github.com/Monika843/Face-Mask-Detection?tab=readme-ov-file
+git clone https://data-flair.training/blogs/face-mask-detection-with-python/
 
 
 Create a virtual environment (optional but recommended):
