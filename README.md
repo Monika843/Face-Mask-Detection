@@ -21,14 +21,9 @@ Public datasets used:
 
 Face Mask Dataset
 
-[Additional images from custom collection]
-
-Installation
-
 Clone the repository:
 
-git clone https://github.com/yourusername/face-mask-detection.git
-cd face-mask-detection
+git clone https://github.com/Monika843/Face-Mask-Detection?tab=readme-ov-file
 
 
 Create a virtual environment (optional but recommended):
